@@ -25,5 +25,6 @@
 
   <h2>:clipboard: About me</h2>
   <p>
-    I'm currently a Software Development student at Fatec-SJC.
+    Front-end Developer | HTML | CSS | Python | Flask
+    Currently pursuing a degree in Software Development at the Faculty of Technology (FATEC-SJC).
   </p>
